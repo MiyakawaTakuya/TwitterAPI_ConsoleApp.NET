@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{57DD6B87-6CE6-44AE-A24E-753DFC4EBD05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Twitter_API/Program.cs">
+    <Files>
+      <File FileName="Twitter_API/Program.cs" Line="18" Column="1" />
+      <File FileName="Twitter_API/Client.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Twitter_API" expanded="True">
+            <Node name="Twitter_API" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Twitter__API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

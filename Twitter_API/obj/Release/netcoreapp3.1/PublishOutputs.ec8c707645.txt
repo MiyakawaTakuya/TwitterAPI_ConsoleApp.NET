@@ -1,0 +1,14 @@
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Twitter_API.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Twitter_API.deps.json
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Twitter_API.runtimeconfig.json
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Twitter_API.pdb
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Autofac.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Newtonsoft.Json.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.Controllers.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.Core.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.Credentials.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.Logic.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.Security.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.Streams.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.WebLogic.dll
+/Users/miyagawatakuya/Projects/Twitter_API/Twitter_API/bin/Release/netcoreapp3.1/publish/Tweetinvi.dll
